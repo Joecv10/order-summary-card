@@ -1,0 +1,108 @@
+@import url("@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@400;500&display=swap');");
+
+body {
+  font-family: "Red Hat Display", sans-serif;
+}
+
+.rounder {
+  border-radius: 1rem !important;
+}
+
+.rounder-img {
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+}
+.mini-box {
+  width: 95%;
+  background-color: #fafafb;
+  height: 60px;
+  margin: 0 auto;
+  border-radius: 5px;
+}
+.box {
+  float: left;
+}
+.box1 {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 6px;
+}
+.box3 {
+  text-align: right;
+  width: 30%;
+  padding-top: 15px;
+  padding-right: 5px;
+}
+
+.box2 {
+  padding-top: 5px;
+  text-align: left;
+  width: 45%;
+}
+
+.box2 p {
+  color: #7c7474;
+  font-size: 12px;
+}
+
+h6 {
+  margin-bottom: 0.1rem !important;
+  font-weight: 700;
+}
+
+a {
+  text-decoration: none;
+  color: #746bf1;
+}
+a:hover {
+  color: #746bf1;
+}
+
+.link {
+  text-decoration: none;
+  color: #7c7474;
+}
+
+.link:hover {
+  font-weight: 600;
+  color: black;
+}
+
+.size-div {
+  min-height: 675px;
+}
+.back {
+  background-image: url(./../images/pattern-background-desktop.svg);
+
+  background-repeat: no-repeat;
+  background-color: #dee8fb;
+}
+
+.card {
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 10px;
+}
+
+.card-text {
+  font-size: 12px;
+  font: verdana;
+  font-family: verdana;
+  width: 80%;
+  margin-bottom: 15px;
+  margin: 10px auto 37px auto;
+  color: #7c7474;
+}
+
+.btn {
+  background-color: #746bf1;
+}
+
+.btn:hover {
+  background-color: #746bf1;
+  box-shadow: 0px 5px 10px #746bf1;
+}
+
+h5 {
+  font-weight: 700;
+}
