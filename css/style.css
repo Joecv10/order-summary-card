@@ -19,6 +19,7 @@ body {
   margin: 0 auto;
   border-radius: 5px;
 }
+
 .box {
   float: left;
 }
@@ -42,17 +43,22 @@ body {
 
 .box2 p {
   color: #7c7474;
-  font-size: 12px;
+  font-size: 13.5px;
+  font-weight: 330;
 }
 
 h6 {
   margin-bottom: 0.1rem !important;
-  font-weight: 700;
+  font-weight: 600;
+  font-size: 12.5px;
+  margin-top: 0.4rem;
 }
 
 a {
   text-decoration: none;
   color: #746bf1;
+  font-size: 13px;
+  font-weight: 500;
 }
 a:hover {
   color: #746bf1;
@@ -61,6 +67,7 @@ a:hover {
 .link {
   text-decoration: none;
   color: #7c7474;
+  font-weight: 545;
 }
 
 .link:hover {
@@ -69,7 +76,7 @@ a:hover {
 }
 
 .size-div {
-  min-height: 675px;
+  min-height: 720px;
 }
 .back {
   background-image: url(./../images/pattern-background-desktop.svg);
@@ -96,6 +103,9 @@ a:hover {
 
 .btn {
   background-color: #746bf1;
+  width: 300px;
+  font-size: 12.5px;
+  font-weight: 550;
 }
 
 .btn:hover {
@@ -105,4 +115,12 @@ a:hover {
 
 h5 {
   font-weight: 700;
+}
+
+.card-title {
+  font-size: 22.5px;
+}
+
+.attribution {
+  font-size: 12.5px;
 }
