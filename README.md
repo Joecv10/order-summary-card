@@ -1,2 +1,2 @@
 # order-summary-card
-this code is the implementation of the challenge from Front-end Style Guide
+this code is the implementation of the challenge from Frontend Mentor Style Guide
